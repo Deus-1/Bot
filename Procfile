@@ -1,2 +1,2 @@
-app: python game.py
+web: python game.py
 
